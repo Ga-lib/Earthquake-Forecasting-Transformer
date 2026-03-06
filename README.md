@@ -21,7 +21,7 @@ MinMaxScaler for numerical stability.
 Label Encoding for categorical embeddings within the Transformer.
 
 🛠️ Tech Stack
-Language: Python
-Deep Learning: PyTorch
-Data Processing: Pandas, NumPy, Scikit-learn
+Language: Python,
+Deep Learning: PyTorch,
+Data Processing: Pandas, NumPy, Scikit-learn,
 Visualization: Matplotlib, Seaborn
