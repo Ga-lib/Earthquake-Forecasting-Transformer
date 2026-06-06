@@ -1,4 +1,4 @@
-# Earthquake-Forecasting-Transformer
+# Seismic Magnitude Forecasting — Custom Transformer
 A Time Series Forecasting project using a custom Transformer architecture to predict earthquake magnitudes based on historical seismic data.
 
 
